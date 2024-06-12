@@ -2,70 +2,70 @@
     {
         "id": "1",
         "nama": "John Doe",
-        "nik/nip": "123456789",
+        "nik": "123456789",
         "jam": "08:00",
         "jarak": "5"
     },
     {
         "id": "2",
         "nama": "Jane Smith",
-        "nik/nip": "987654321",
+        "nik": "987654321",
         "jam": "09:00",
         "jarak": "10"
     },
     {
         "id": "3",
         "nama": "Alice Johnson",
-        "nik/nip": "123123123",
+        "nik": "123123123",
         "jam": "10:00",
         "jarak": "15"
     },
     {
         "id": "4",
         "nama": "Bob Brown",
-        "nik/nip": "321321321",
+        "nik": "321321321",
         "jam": "11:00",
         "jarak": "20"
     },
     {
         "id": "5",
         "nama": "Charlie Davis",
-        "nik/nip": "456456456",
+        "nik": "456456456",
         "jam": "12:00",
         "jarak": "25"
     },
     {
         "id": "6",
         "nama": "Daisy Evans",
-        "nik/nip": "654654654",
+        "nik": "654654654",
         "jam": "13:00",
         "jarak": "30"
     },
     {
         "id": "7",
         "nama": "Ethan Foster",
-        "nik/nip": "789789789",
+        "nik": "789789789",
         "jam": "14:00",
         "jarak": "35"
     },
     {
         "id": "8",
         "nama": "Fiona Green",
-        "nik/nip": "987987987",
+        "nik": "987987987",
         "jam": "15:00",
         "jarak": "40"
     },
     {
         "id": "9",
         "nama": "George Harris",
-        "nik/nip": "111222333",
+        "nik": "111222333",
         "jam": "16:00",
         "jarak": "45"
     },
     {
         "id": "10",
         "nama": "Hannah Wilson",
-        "nik/nip": "333444555",
+        "nik": "333444555",
         "jam": "17:00",
         "jarak": "50"
     }
